@@ -13,16 +13,27 @@
 - Email Notifications
 - Subscriber Form
 
-## Requirements 
--   Laravel <= 12.0
--   PHP <= 8.2
--   Composer Version 2 
+# 🚀 Laravel Blog System
 
-## Installation Steps 
+A modern, high-performance blogging platform built with **Laravel 12**, **Tailwind CSS v4**, and **CKEditor 5**. This project features a full administrative dashboard, category management, and a responsive frontend.
 
-1.  Get the code <code># Clone the repository
-git clone https://github.com/yourusername/your-repo-name.git
+---
 
-# Move into the directory
-cd your-repo-name</code>
-2. 
+## 🛠️ Tech Stack
+
+- **Backend:** Laravel 12 (PHP 8.2+)
+- **Frontend:** Tailwind CSS v4 & Vite
+- **Editor:** CKEditor 5 (Custom Build)
+- **Database:** SQLite (Default) / MySQL
+- **Environment:** Optimized for WSL2 / Ubuntu
+
+---
+
+## 📥 Installation Steps
+
+Follow these instructions to get a local development environment up and running.
+
+### 1. Clone the Repository
+```bash
+git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+cd your-repo-name
