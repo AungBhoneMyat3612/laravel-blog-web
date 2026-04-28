@@ -22,8 +22,7 @@ A modern, high-performance blogging platform built with **Laravel 12**, **Tailwi
 ## 🛠️ Tech Stack
 
 - **Backend:** Laravel 12 (PHP 8.2+)
-- **Frontend:** Tailwind CSS v4 & Vite
-- **Editor:** CKEditor 5 (Custom Build)
+- **Frontend:** Bootstrap v5
 - **Database:** SQLite (Default) / MySQL
 - **Environment:** Optimized for WSL2 / Ubuntu
 
@@ -35,5 +34,9 @@ Follow these instructions to get a local development environment up and running.
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-cd your-repo-name
+git clone [https://github.com/AungBhoneMyat3612/laravel-blog-web](https://github.com/AungBhoneMyat3612/laravel-blog-web)
+cd Blog
+
+### 2. Install PHP Dependencie
+```bash
+composer install
