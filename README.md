@@ -6,7 +6,7 @@
 - Email Notifications
 - Subscriber Form
 
-# 🚀 Laravel Blog System
+# Laravel Blog System
 
 A modern, high-performance blogging platform built with **Laravel 12** and **Bootstrap v5**. This project features a full administrative dashboard, category management, backend validation, view detail page and blog CRUD.
 
